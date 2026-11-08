@@ -1,0 +1,9 @@
+{
+  "name": "Puberty Without Barriers",
+  "short_name": "Puberty",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#faf7fd",
+  "theme_color": "#5b3a8c",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
